@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Card = () => {
+  return (
+    <div className="card">
+      Press any button to get corresponding user's data
+    </div>
+  )
+}
+
+export default Card
